@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForSaKkenn
 - 👀 I’m interested in Numerical Methods with Python, Electromagnetism and Applied Electronics
-- 🌱 I’m currently in my Electrmechanical Engineering career in the UPTP 
+- 🌱 I’m currently in my Electromechanical Engineering career in the UPTP 
 - 💞️ I’m looking to collaborate on Numerical Methods, Applied Physics
 - 📫 Email: eliazartev84@gmail.com 
 
